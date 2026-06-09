@@ -1,0 +1,6 @@
+{
+  "name": "Joki Tugas Skyber",
+  "description": "Solusi joki tugas kuliah dan sekolah terpercaya, cepat, berkualitas, dan rahasia terjamin. Dilengkapi dengan kalkulator harga interaktif dan Asisten AI Skyber.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
